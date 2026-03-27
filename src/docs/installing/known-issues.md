@@ -13,7 +13,8 @@
 
 - Broken USB-C on TigerLake and AlderLake. See Post Install -> Linux for fix.
 - No fingerprint reader support.
-- Debian 12 (Bookworm) needs a custom kernel.
+- Debian 12 (Bookworm) needs an updated kernel from backports.
+- Stoney Ridge audio requires Linux kernel 6.19 or newer.
 
 ### macOS
 

@@ -8,14 +8,14 @@ next: post-install
 Thanks to recent advancements in the chrultrabook community, Linux works really well on most Chromebooks.
 
 ::: tip
-Only Linux kernel 6.6 or newer is supported.
+Only Linux kernel 6.19 or newer is supported.
 :::
 
 ## Recommended Distributions
 
 ::: warning
-Old (>1 year) LTS releases **may have issues** and are not supported.  
-One possible workaround for Debian 12 (Bookworm) and Ubuntu is using a custom kernel. In case of Debian, the [audio script](#fixing-audio) will automatically install it for you. Note that not all issues can be solved with a custom kernel, as the rest of the software on the system is still old.
+Old (>1 year) LTS releases **may have issues** and are not supported.
+One possible workaround for Ubuntu is using a third-party kernel. Note that not all issues can be solved with a custom kernel, as the rest of the software on the system might be still old.
 :::
 
 **Recommended distros as of December 2024 (in no particular order) are:**
