@@ -212,7 +212,7 @@
   "AMD Stoneyridge": {
     "default_windows": "Experimental Windows support. Requires patched drivers with testsigning enabled.",
     "default_mac": "No MacOS support.",
-    "default_linux": "Needs kernel compiled with AMDGPU=Y instead of =M and firmware built-in to get working audio",
+    "default_linux": "Needs kernel in version at least 6.19 to get working audio",
     "devices": []
   },
   "AMD Picasso": {
